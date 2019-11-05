@@ -1,4 +1,4 @@
-![board image](board.png)
+![board image](FlightController/board.PNG)
 
 # Quadcopter
 A quadcopter built from scratch, using a custom flight controller and software. 
